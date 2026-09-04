@@ -38,7 +38,7 @@ services and data pipelines for their Rating and Billing Manager platform.
 
 ### Certifications
 
-Professional Scrum Master I & II · Professional Agile Leadership · SAFe Scrum Master
+Professional Scrum Master I & II · Professional Agile Leadership · SAFe Scrum Master · Ignition Core Certification
 
 Most of my current work lives behind a corporate firewall, so what is public here is
 mostly earlier full-stack work. Happy to walk through the industrial control and data
