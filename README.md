@@ -6,21 +6,21 @@ services and data pipelines for their Rating and Billing Manager platform.
 
 ### What I work on now
 
-- **Ignition SCADA** — Perspective and Vision screens built in Ignition Designer, gateway
+- **Ignition SCADA** Perspective and Vision screens built in Ignition Designer, gateway
   configuration, tag historian, transaction groups, named queries, Jython scripting, and
   gateway network redundancy
-- **Survalent SCADA** — SmartVU displays, point configuration, and alarming for utility
+- **Survalent SCADA** SmartVU displays, point configuration, and alarming for utility
   distribution operations
-- **Field communications** — DNP3, Modbus, and OPC UA between RTUs, relays, reclosers, and
+- **Field communications** DNP3, Modbus, and OPC UA between RTUs, relays, reclosers, and
   the SCADA front end
-- **Substations and distribution feeders** — breaker control, relay and recloser
+- **Substations and distribution feeders** breaker control, relay and recloser
   integration, and real-time monitoring of electrical assets across feeders
-- **Commissioning** — point-to-point testing from field device through RTU to the HMI,
+- **Commissioning** point-to-point testing from field device through RTU to the HMI,
   verifying every point reads and controls correctly before cutover
-- **HMI and alarms** — HMI standards, alarm rationalization, redundancy and failover
+- **HMI and alarms** HMI standards, alarm rationalization, redundancy and failover
 - **Automation** in Python and SQL: scheduled jobs on Windows Server using Task Scheduler
   and PowerShell, with Active Directory integration
-- **Microsoft SQL Server** — queries, stored procedures, historian data, and moving data
+- **Microsoft SQL Server** queries, stored procedures, historian data, and moving data
   between SCADA and downstream systems
 
 ### What I worked on before
